@@ -1,0 +1,15 @@
+{
+  "name": "node-restconf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "provison-l3vpn.js",
+  "scripts": {
+    "start": "node provision-l3vpn.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
